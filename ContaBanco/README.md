@@ -43,7 +43,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 ## Materiais acessados para estudo no desenvolvimento do projeto
 
-[Repositório DIO (https://github.com/digitalinnovationone)]
+[Repositório DIO] (https://github.com/digitalinnovationone)
     Através dos repositórios DIO consegui tirar dúvidas com relação a sintaxe e estruturas do código Java.
 
-[Classe Scanner (https://www.devmedia.com.br/como-funciona-a-classe-scanner-do-java/28448)]
+[Classe Scanner] (https://www.devmedia.com.br/como-funciona-a-classe-scanner-do-java/28448)
